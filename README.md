@@ -1,4 +1,4 @@
-# Projet5-NinaCarducci https://lbaert.github.io/Projet5NinaCarducci/
+# Projet5-NinaCarducci https://lbaert.github.io/Projet5-NinaCarducci/
 
 Bienvenue dans le projet "Débuggez et optimisez le site de Nina Carducci" !
 
