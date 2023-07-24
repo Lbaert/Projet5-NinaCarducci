@@ -42,8 +42,10 @@ body {
 	width: 20px;
 }
 
-.social-link img:hover {
-	background-color: rgba(70, 70, 70, 0.5);
+.social-link img:hover, .top-header li:hover {
+	background-color: #f6d2b8;
+	border-radius: 5px;
+	background-size: 150px;
 }
 
 #about {
@@ -52,7 +54,11 @@ body {
 	padding-inline: 100px;
 	padding-block: 100px;
 	position: relative;
-	padding-bottom: 77px;
+	padding-bottom: 70px;
+}
+
+.top-header p {
+	margin-bottom: 0.5rem;
 }
 
 .picture.left::before {
@@ -66,21 +72,27 @@ body {
 	z-index: -1;
 }
 
-.picture.left h1 {
+.picture.left p {
 color: white;
 font-size: 1em;
 margin: 0;
-background-color:rgba(70, 70, 70, 0.5);
-width: 65%;
+text-shadow: 4px 3px 5px #000000;
+background-color:rgba(255, 255, 255, 0.2);
+width: 50%;
 text-align: center;
 }
 
 .adresse {
-	position: relative;
-	bottom: 10%;
-	right: 5%;
+	position: absolute;
+	bottom: 0;
+	left: 0;
 	padding: 0;
-	margin: 0;    
+	margin: 0;  
+	width: 100%; 
+}
+
+.image-container {
+	position: relative;
 }
 
 .picture {
@@ -106,19 +118,13 @@ text-align: center;
 	font-weight: 800;
 	font-style: italic;
 	width: 60%;
+	font-size: 1em;
 }
 #about-me p {
 	width: 80%;
 	font-size: 14px;
 }
 
-#about-me h4 {
-    font-family: 'Spectral';
-    font-weight: 800;
-    font-style: italic;
-	width: 60%;
-    font-size: 1em;
-}
 
 #gallery {
 	/*	min-height: 100vh; */
@@ -132,11 +138,16 @@ text-align: center;
 }
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
 	color: black;
-	background-color: white;
+	background-color: #E5975F;
 	border-radius:0 ;
 }
 .nav-pills .nav-link {
-	color: #000
+	color: #000;
+	background-color: #D8D3A8;
+	cursor: pointer;
+}
+.nav-pills .nav-link:hover, .nav-link.active-tag {
+	background-color: #E5975F;
 }
 .item-column {
 	position: relative;
@@ -285,7 +296,7 @@ input[type="submit"] {
 		margin-top: 0;
 		margin-bottom: 1em;
 	}
-	#about-me h3, #about-me p {
+	#about-me h2, #about-me p {
 		width: 100%;
 	}
 }
@@ -382,5 +393,9 @@ input[type="submit"] {
 	.picture {
 		width: 80%;
 	}
+}
+
+.service__price p{
+	font-size: 1.5em;
 }
 
