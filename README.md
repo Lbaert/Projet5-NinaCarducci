@@ -23,8 +23,8 @@ Ce projet a pour objectif d'optimiser le site web "https://nina-carducci.github.
 
 Étape 5 : Optimisez le SEO technique 🟢
 
-Étape 6 : Ajoutez le référencement local et réseaux sociaux 🔴
+Étape 6 : Ajoutez le référencement local et réseaux sociaux 🟢
 
 Étape 7 : Correction de l’accessibilité 🟢
 
-Étape 8 : Génération des rapports finaux et relecture des documents 🔴
+Étape 8 : Génération des rapports finaux et relecture des documents 🟠
