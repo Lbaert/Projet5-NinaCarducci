@@ -72,7 +72,7 @@ body {
 	z-index: -1;
 }
 
-.picture.left p {
+.picture.left h2 {
 color: white;
 font-size: 1em;
 margin: 0;
