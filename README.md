@@ -5,7 +5,7 @@ Bienvenue dans le projet "Débuggez et optimisez le site de Nina Carducci" !
 Ce projet a pour objectif d'optimiser le site web "https://nina-carducci.github.io/" pour améliorer ses performances et sa qualité de code.
 
 **Analyse avec Lighthouse :**
-   J'ai utilisé l'outil Lighthouse pour effectuer une analyse des performances du site en simulant un appareil iPhone SE et une connexion mobile de niveau moyen. Vous pouvez consulter le rapport d'analyse complet ici : [Lighthouse Report](https://googlechrome.github.io/lighthouse/viewer/?gist=e08c9b5be461bdeee9f7ee3b6813da70)
+   J'ai utilisé l'outil Lighthouse pour effectuer une analyse des performances du site. Vous pouvez consulter le rapport d'analyse complet ici : [Lighthouse Report](https://googlechrome.github.io/lighthouse/viewer/?gist=e08c9b5be461bdeee9f7ee3b6813da70)
    
 ---
 
