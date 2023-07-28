@@ -10,19 +10,15 @@ Ce projet a pour objectif d'optimiser le site web "https://nina-carducci.github.
 ---
 
 **Après optimisation :**
-   Rapport complet de l’audit Lighthouse desktop
-[Desktop Lighthouse Report](https://googlechrome.github.io/lighthouse/viewer/?psiurl=https%3A%2F%2Flbaert.github.io%2FProjet5-NinaCarducci%2F&strategy=desktop&category=performance&category=accessibility&category=best-practices&category=seo&category=pwa&utm_source=lh-chrome-ext)
 
-   Rapport complet de l’audit Lighthouse mobile
-[Mobile Lighthouse Report](https://googlechrome.github.io/lighthouse/viewer/?psiurl=https%3A%2F%2Flbaert.github.io%2FProjet5-NinaCarducci%2F&strategy=mobile&category=performance&category=accessibility&category=best-practices&category=seo&category=pwa&utm_source=lh-chrome-ext)
+[Lighthouse Desktop Report](https://googlechrome.github.io/lighthouse/viewer/?psiurl=https%3A%2F%2Flbaert.github.io%2FProjet5-NinaCarducci%2F&strategy=desktop&category=performance&category=accessibility&category=best-practices&category=seo&category=pwa&utm_source=lh-chrome-ext)
 
-   Rapport complet de l’audit GTmetrix
+[Lighthouse Mobile Report](https://googlechrome.github.io/lighthouse/viewer/?psiurl=https%3A%2F%2Flbaert.github.io%2FProjet5-NinaCarducci%2F&strategy=mobile&category=performance&category=accessibility&category=best-practices&category=seo&category=pwa&utm_source=lh-chrome-ext)
+
 [GTmetrix Report](https://gtmetrix.com/reports/lbaert.github.io/mdbEvr1W/)
 
-   Rapport complet des résultats enrichis - rich snippet
 [Rich Snippet Report](https://search.google.com/test/rich-results/result?id=HsSJdacgZI58kIDpSn09Qg)
 
-   Rapport complet de Wave
 [Wave Report](https://wave.webaim.org/report#/https://lbaert.github.io/Projet5-NinaCarducci/)
 
 ---
