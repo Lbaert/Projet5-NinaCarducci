@@ -8,7 +8,7 @@ Le projet Nina Carducci consiste à débugger et optimiser un site de photograph
 
 ## Démo
 
-Une démo du site optimisé est disponible en suivant ce lien : [Nina Carducci Demo]([lien_du_site](https://lbaert.github.io/Projet5-NinaCarducci/)).
+Une démo du site optimisé est disponible en suivant ce lien : [Nina Carducci Demo](https://lbaert.github.io/Projet5-NinaCarducci/).
 
 ## Optimisations réalisées
 
